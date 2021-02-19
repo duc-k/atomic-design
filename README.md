@@ -1,24 +1,48 @@
-# atomic-design
+# Marcos
+Portfólio construído com Vuejs utilizando a metodologia do Atomic Design.
 
-## Project setup
+<img src="./src/assets/images/thumbnail.png" alt="Marcos" />
+
+<br />
+<br />
+
+# 👨🏻‍💻 Stack
+📍 Vue  
+📍 Sass  
+📍 Typescript  
+
+<br />
+
+# 👯‍♀️ Clone
+Faça o clone do repositório
+
+```shell
+git clone https://github.com/duc-k/atomic-design.git 
 ```
+
+<br />
+
+# 📦 Dependências
+Instale as dependências necessárias
+
+```shell
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
+<br />
+
+# 🚀 Execução
+Execute o servidor
+
+```shell
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+<br />
 
-### Lints and fixes files
-```
-yarn lint
-```
+# 🔗 URL
+Abra à URL no navegador
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```shell
+http://localhost:8080/
+```
